@@ -2,7 +2,7 @@
 # PRODIGY_WD_01
 
 ## TASK 1 RESPONSIVE LANDING PAGE
-This repository contains a simple registration for an web application project developed using HTML, CSS, and JavaScript, created as part of my internship at TECHNOHACKS
+This repository contains a simple registration for an web application project developed using HTML, CSS, and JavaScript, created as part of my internship at Prodigy infotech
 
 ## Overview:
 This project is part of the web development internship with Prodigy Infotech. The task involves creating a responsive landing page for the fictitious company, CodeCrafters, using HTML and the Tailwind CSS framework. The goal of this project is to showcase your skills in front-end web development, specifically in creating visually appealing and responsive web pages.
